@@ -4,7 +4,7 @@
 
 
 
-- 🌱 Estudante de Ciência da Computação, 4º Semestre, no momento estou aprendendo desenvolvimento Android com Java!
+- 🌱 Estudante de Ciência da Computação, 4º Semestre, no momento estou aprendendo os 3 pilares da Web (HTML, CSS & JavaScript)!
 - 💬 Me pergunte sobre Java, a gente quebra a cabeça juntos para entender XD
 - 📫 Como entrar em contato comigo: [Gmail](mailto:riansantosc02@outlook.com)
 - ⚡ Tenho interesse em Desenvolvimento Mobile, Java, JavaScript, CyberSecurity, BugBounty
