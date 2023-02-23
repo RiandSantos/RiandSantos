@@ -4,10 +4,10 @@
 
 
 
-- 🌱 Estudante de Ciência da Computação, 5º Semestre!
+- 🌱 Estudante de Ciência da Computação, 7º Semestre!
 - 💬 Me pergunte sobre Java, a gente quebra a cabeça juntos para entender XD
-- 📫 Como entrar em contato comigo: [Gmail](mailto:riansantosc02@outlook.com)
-- ⚡ Tenho interesse em Desenvolvimento Mobile, Java, JavaScript, CyberSecurity, BugBounty
+- 📫 Como entrar em contato comigo: [Outlook](mailto:riansantosc02@outlook.com)
+- ⚡ Tenho interesse em Desenvolvimento Mobile, CyberSecurity, BugBounty
 - 📌CTF Player
 ---
 <div align = 'center'>
