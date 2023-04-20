@@ -1,13 +1,12 @@
 ## Olá! 👋
 
-### Meu nome é **Rian Santos** e esse é meu perfil no GitHub, aqui você encontra alguns projetos que eu desenvolvi e outros que estou desenvolvendo. Támbem sou um Entusiasta de *CyberSecurity*!
+### Meu nome é **Rian Santos** e esse é meu perfil no GitHub, aqui você encontra alguns projetos que eu desenvolvi e outros que estão em andamento, muitos dos projetos são principalmente para a faculdade. Támbem sou um Entusiasta de cibersegurança e de áreas correlatas!
 
 
 
 - 🌱 Estudante de Ciência da Computação, 7º Semestre!
-- 💬 Me pergunte sobre Java, a gente quebra a cabeça juntos para entender XD
 - 📫 Como entrar em contato comigo: [Outlook](mailto:riansantosc02@outlook.com)
-- ⚡ Tenho interesse em Desenvolvimento Mobile, CyberSecurity, BugBounty
+- ⚡ Tenho interesse em CyberSecurity(redteam / blueteam), BugBounty e desafios CTF's
 - 📌CTF Player
 ---
 <div align = 'center'>
