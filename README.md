@@ -4,7 +4,7 @@
 
 
 
-- 🌱 Estudante de Ciência da Computação, 7º Semestre!
+- 🎓 Ciência da Computação
 - 📫 Como entrar em contato comigo: [Outlook](mailto:riansantosc02@outlook.com)
 - ⚡ Tenho interesse em CyberSecurity(redteam / blueteam), BugBounty e desafios CTF's
 - 📌CTF Player
